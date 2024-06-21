@@ -42,6 +42,7 @@ function deriveGameBoard(gameTurns) {
   return gameBoard;
 }
 
+
 function deriveWinner(gameBoard, players) {
   let winner;
 
